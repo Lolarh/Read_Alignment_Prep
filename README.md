@@ -34,7 +34,7 @@ You can install these tools as follows:
 - HTSeq: `pip install HTSeq`
 - Samtools: `apt-get install samtools`
 
-### USAGE OF INSTALL TOOLS
+### USAGE OF INSTALLED TOOLS
 The usage and command line necessary are indicated in the attached file
 
 
